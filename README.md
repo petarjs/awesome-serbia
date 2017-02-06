@@ -13,16 +13,16 @@
 
 ## Videos
 
-- [Serbia - One journey, million impressions](https://www.youtube.com/watch?v=xDHpcAFSMr0) - Video by National Tourism Organisation of Serbia
-- [A day in Belgrade](https://www.youtube.com/watch?v=FLKXSgXNl8w) - Beautiful 4K Motion Time-lapse
-- [Belgrade in 4K](https://www.youtube.com/watch?v=cWsoNv24Syo) - Walk the streets of Belgrade in this awesome video
-- [Serbian Food](https://www.youtube.com/watch?v=aqO4MESw_Og) - This Mouth-watering video will show you some of the awesome food you can try in Serbia
-- [10 Cool Places to visit in Serbia](https://www.youtube.com/watch?v=uH8AbaIHsVg) - Showing nice cities and natural beauties
-- [The City of Nis from Air](https://www.youtube.com/watch?v=6ds7-Uleu4o) - Nis - a nice city in the south-eastern Serbia
+- [Serbia - One journey, million impressions](https://www.youtube.com/watch?v=xDHpcAFSMr0) - Video by National Tourism Organisation of Serbia.
+- [A day in Belgrade](https://www.youtube.com/watch?v=FLKXSgXNl8w) - Beautiful 4K Motion Time-lapse.
+- [Belgrade in 4K](https://www.youtube.com/watch?v=cWsoNv24Syo) - Walk the streets of Belgrade in this awesome video.
+- [Serbian Food](https://www.youtube.com/watch?v=aqO4MESw_Og) - This Mouth-watering video will show you some of the awesome food you can try in Serbia.
+- [10 Cool Places to visit in Serbia](https://www.youtube.com/watch?v=uH8AbaIHsVg) - Showing nice cities and natural beauties.
+- [The City of Nis from Air](https://www.youtube.com/watch?v=6ds7-Uleu4o) - Nis - a nice city in the south-eastern Serbia.
 
 ## Articles
 
-- [Serbia Tourism Webiste](http://www.serbia.com/) - Amazing resources to plan your stay in Serbia
+- [Serbia Tourism Webiste](http://www.serbia.com/) - Amazing resources to plan your stay in Serbia.
 
 ## Co-Working Spaces
 
@@ -37,7 +37,7 @@
 - [Novi Sad - Apolo](https://www.facebook.com/pages/Hub-Coworking-apolo/936416936370759)
 - [Nis - Tilda](http://tilda.rs/)
 - [Nis - Deli](http://deli.rs/)
-- [Mokrin - Mokrin House](http://www.mokrinhouse.com/) - Mokrin
+- [Mokrin - Mokrin House](http://www.mokrinhouse.com/) - Mokrin.
 
 ## Meetups
 
