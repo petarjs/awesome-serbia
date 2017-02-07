@@ -44,6 +44,7 @@
 - [Belgrade - JS Belgrade](http://www.jsbelgrade.org/)
 - [Belgrade - Silicon Drinkabout Belgrade](http://3-beards.com/silicondrinkabout/belgrade)
 - [Belgrade - PHP Srbija](http://phpsrbija.rs/)
+- [Kikinda - KTZ](https://facebook.com/ktzkikinda)
 - [Novi Sad - WP NS](https://www.meetup.com/WP-Meetup-NS/)
 - [Novi Sad - Big Data](https://www.meetup.com/Big-Data-Novi-Sad/)
 - [Novi Sad - Ruby](https://www.meetup.com/Ruby-Novi-Sad/)
@@ -54,6 +55,7 @@
 ## Workshops
 
 - [NodeSchool Belgrade](https://nodeschool.io/belgrade/)
+- [NodeSchool Kikinda](https://nodeschool.io/kikinda/)
 
 ## Conferences
 
