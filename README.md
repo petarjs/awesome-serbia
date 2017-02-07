@@ -32,6 +32,7 @@
 - [Belgrade - StartIT](http://startit.rs/centar/zajednicki-rad/)
 - [Belgrade - Potkrovlje Hub](https://www.facebook.com/PotkrovljeHUB.rs)
 - [Belgrade - Impact Hub](http://belgrade.impacthub.net/)
+- [Belgrade - ICT Hub](http://en.icthub.rs/)
 - [Belgrade - Tipsy Pixel](http://www.tipsypixel.com/)
 - [Novi Sad - Pionirska](http://coworkingmap.org/pionirska/)
 - [Novi Sad - Apolo](https://www.facebook.com/pages/Hub-Coworking-apolo/936416936370759)
