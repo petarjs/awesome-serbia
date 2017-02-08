@@ -45,10 +45,13 @@
 - [Belgrade - JS Belgrade](http://www.jsbelgrade.org/)
 - [Belgrade - Silicon Drinkabout Belgrade](http://3-beards.com/silicondrinkabout/belgrade)
 - [Belgrade - PHP Srbija](http://phpsrbija.rs/)
+- [Belgrade - ICT Hub Meetup](https://www.meetup.com/ICT-Hub-Meetup/)
 - [Kikinda - KTZ](https://facebook.com/ktzkikinda)
 - [Novi Sad - WP NS](https://www.meetup.com/WP-Meetup-NS/)
 - [Novi Sad - Big Data](https://www.meetup.com/Big-Data-Novi-Sad/)
 - [Novi Sad - Ruby](https://www.meetup.com/Ruby-Novi-Sad/)
+- [Novi Sad - Geekstone](https://www.meetup.com/Geekstone/)
+- [Novi Sad - DaFED](http://dafed.org/)
 - [Nis - CODEstantine](https://www.meetup.com/codestantine/)
 - [Nis - WP Nis](https://www.meetup.com/wordpress-nis/)
 - [Nis - NisJS](https://nisjs.com/) - Comming Soon
@@ -62,3 +65,4 @@
 
 - [IT Konekt](http://it-konekt.com/sr)
 - [Coding Serbia](http://codingserbia.com/)
+- [Voxxed Days](https://belgrade.voxxeddays.com/)
