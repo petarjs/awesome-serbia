@@ -54,7 +54,7 @@
 - [Novi Sad - DaFED](http://dafed.org/)
 - [Nis - CODEstantine](https://www.meetup.com/codestantine/)
 - [Nis - WP Nis](https://www.meetup.com/wordpress-nis/)
-- [Nis - NisJS](https://nisjs.com/) - Comming Soon
+- [Nis - NisJS](https://nisjs.com/)
 
 ## Workshops
 
