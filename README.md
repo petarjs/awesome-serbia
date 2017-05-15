@@ -66,3 +66,8 @@
 - [IT Konekt](http://it-konekt.com/sr)
 - [Coding Serbia](http://codingserbia.com/)
 - [Voxxed Days](https://belgrade.voxxeddays.com/)
+
+## Festivals
+
+- [Exit](http://www.exitfest.org/en)
+- [Love Fest](http://en.lovefest.rs/)
