@@ -19,6 +19,7 @@
 - [Serbian Food](https://www.youtube.com/watch?v=aqO4MESw_Og) - This Mouth-watering video will show you some of the awesome food you can try in Serbia.
 - [10 Cool Places to visit in Serbia](https://www.youtube.com/watch?v=uH8AbaIHsVg) - Showing nice cities and natural beauties.
 - [The City of Nis from Air](https://www.youtube.com/watch?v=6ds7-Uleu4o) - Nis - a nice city in the south-eastern Serbia.
+- [Serbia - Land coloured with life](https://www.youtube.com/watch?v=fJ2NlCRcIq0) - Travel promo video by Happiness Mode.
 
 ## Articles
 
